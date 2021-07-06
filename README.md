@@ -1,6 +1,7 @@
 # Techpump Technical Test
 
 <p align="center">
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-19-blue.svg?style=flat-square&logo=docker" alt="Docker"/></a>
     <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Symfony-5-red?style=flat-square&logo=symfony" alt="Symfony"/></a>
     <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-7-777BB4.svg?style=flat-square&logo=php" alt="PHP"/></a>
     <a href="https://www.jetbrains.com/es-es/phpstorm/?ref=steemhunt"><img src="https://img.shields.io/badge/PhpStorm-2021-000000.svg?style=flat-square&logo=phpstorm" alt="PhpStorm"/></a>
