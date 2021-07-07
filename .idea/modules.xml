@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Techpump.iml" filepath="$PROJECT_DIR$/.idea/Techpump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/symfony-docker.iml" filepath="$PROJECT_DIR$/.idea/symfony-docker.iml" />
     </modules>
   </component>
 </project>
