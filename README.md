@@ -35,9 +35,9 @@ It is composed by 3 containers:
 3. The 3 containers are deployed:
 
 ```
-Creating symfony-docker_db_1    ... done
-Creating symfony-docker_php_1   ... done
-Creating symfony-docker_nginx_1 ... done
+Creating techpump_db_1    ... done
+Creating techpump_php_1   ... done
+Creating techpump_nginx_1 ... done
 ```
 
 4. Use this value for the DATABASE_URL environment variable of Symfony:
