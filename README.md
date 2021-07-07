@@ -48,3 +48,6 @@ DATABASE_URL=mysql://app_user:helloworld@db:3307/app_db?serverVersion=5.7
 
 You could change the name, user and password of the database in the `env` file at the root of the project.
 
+## Local Web site
+
+[Local Web](http://localhost:8001/)
